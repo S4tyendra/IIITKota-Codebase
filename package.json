@@ -27,7 +27,7 @@
     "react": "alpha",
     "react-dom": "alpha",
     "react-icons": "latest",
-    "sharp": "latest"
+    "sharp": "0.32.6"
   },
   "devDependencies": {
     "@babel/cli": "latest",
