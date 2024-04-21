@@ -23,7 +23,7 @@
     "@sendgrid/mail": "latest",
     "babel-plugin-cx": "^16.12.0",
     "next": "canary",
-    "npm": "^10.1.0",
+    "npm": "^10.2.2",
     "react": "alpha",
     "react-dom": "alpha",
     "react-icons": "latest",
